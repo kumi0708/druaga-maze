@@ -9,6 +9,12 @@
 
 6F・15F・16F・22F・30F・32F は実機画面と全マス一致を確認済み。
 
+## デモ
+
+https://kumi0708.github.io/druaga-maze/
+
+![6F (seed=5)](docs/floor06.png)
+
 ## 使い方
 
 ```
